@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
 <h3 align="center">A knowledge enthusiast from India</h3>
 
-<img align = "right" alt = "coding" width = "400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fhacktiv8&psig=AOvVaw1KM32GQ4-i3GaGjqaBlxvX&ust=1691950956201000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjsmMjl14ADFQAAAAAdAAAAABAg
-">
+<img align = "right" alt = "coding" width = "400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsponsors%2FKhushiyant&psig=AOvVaw10inmbG_WWE0rtUMIoCwCF&ust=1691953260691000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCgg5nn14ADFQAAAAAdAAAAABAO">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshtrivedi2934&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshtrivedi2934" /> </p>
 
