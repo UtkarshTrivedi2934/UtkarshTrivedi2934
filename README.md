@@ -1,4 +1,4 @@
-[![MasterHead](https://gfycat.com/fr/academicvioletflyingsquirrel-programmerhumor)
+[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fgifdb.com%2Fimages%2Fhigh%2Fcoding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif&tbnid=4EohS9e2g4qUPM&vet=12ahUKEwjrzrOM49eAAxU_z6ACHckCAQ0QMyg1egQIARB2..i&imgrefurl=https%3A%2F%2Fgifdb.com%2Fgif%2Fcoding-animated-laptop-flow-stream-ja04010rm5o68zfk.html&docid=dUTJSIbz6qTRWM&w=500&h=500&q=animated%20coding&ved=2ahUKEwjrzrOM49eAAxU_z6ACHckCAQ0QMyg1egQIARB2)
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
 <h3 align="center">A knowledge enthusiast from India</h3>
 
