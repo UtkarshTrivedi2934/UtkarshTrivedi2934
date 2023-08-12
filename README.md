@@ -1,6 +1,9 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fgifdb.com%2Fimages%2Fhigh%2Fcoding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif&tbnid=4EohS9e2g4qUPM&vet=12ahUKEwjrzrOM49eAAxU_z6ACHckCAQ0QMyg1egQIARB2..i&imgrefurl=https%3A%2F%2Fgifdb.com%2Fgif%2Fcoding-animated-laptop-flow-stream-ja04010rm5o68zfk.html&docid=dUTJSIbz6qTRWM&w=500&h=500&q=animated%20coding&ved=2ahUKEwjrzrOM49eAAxU_z6ACHckCAQ0QMyg1egQIARB2)
+
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
 <h3 align="center">A knowledge enthusiast from India</h3>
+
+<img align = "right" alt = "coding" width = "400" src = "![image](https://github.com/UtkarshTrivedi2934/UtkarshTrivedi2934/assets/104593332/7e6249e8-08ae-4338-9dbf-807f5c652fbe)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshtrivedi2934&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshtrivedi2934" /> </p>
 
