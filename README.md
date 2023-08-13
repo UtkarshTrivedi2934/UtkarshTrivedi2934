@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/utkboi69" target="blank"><img src="https://img.shields.io/twitter/follow/utkboi69?logo=twitter&style=for-the-badge" alt="utkboi69" /></a> </p>
 
+- 🔭 I’m currently working on [karachi-pakistan-weather-prediction](https://github.com/UtkarshTrivedi2934/karachi-pakistan-weather-prediction)
+
 - 🌱 I’m currently learning **Data Science**
 
 - 📝 I regularly write articles on [https://medium.com/@UtkarshWrites](https://medium.com/@UtkarshWrites)
