@@ -19,7 +19,6 @@
 
 - ⚡ Fun fact **The right algorithm makes all the difference.**
 
-- Personal website : https://utkarshtrivedi2934.github.io/PersonalWebDesign/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
