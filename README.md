@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/utkboi69" target="blank"><img src="https://img.shields.io/twitter/follow/utkboi69?logo=twitter&style=for-the-badge" alt="utkboi69" /></a> </p>
 
-- 🔭 I’m currently working on various ML algorithms.
+- 🔭 Have a look at my profile: <a href = "https://utkarshtrivedi2934.github.io/PersonalWebDesign/"></a>.
 
 - 🌱 I’m currently learning **Data Science**
 
