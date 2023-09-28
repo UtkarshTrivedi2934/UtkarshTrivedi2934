@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/utkboi69" target="blank"><img src="https://img.shields.io/twitter/follow/utkboi69?logo=twitter&style=for-the-badge" alt="utkboi69" /></a> </p>
 
-- 🔭 Have a look at my profile: <p align = "left"> <a href = "https://utkarshtrivedi2934.github.io/PersonalWebDesign/">Resume </a></p>.
+- 🔭 Have a look at my profile: <p align = "left"> <a href = "https://utkarshtrivedi2934.github.io/PersonalWebDesign/">[Resume](https://utkarshtrivedi2934.github.io/PersonalWebDesign/) </a></p>.
 
 - 🌱 I’m currently learning **Data Science**
 
