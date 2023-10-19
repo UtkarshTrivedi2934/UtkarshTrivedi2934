@@ -8,7 +8,7 @@
 
 - 🔭 Have a look at my profile:<a href = "[https://utkarshtrivedi2934.github.io/Portfolio_Design/]">(https://utkarshtrivedi2934.github.io/Portfolio_Design/)</a>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Deep learning**
 
 - 📝 I regularly write articles on [https://medium.com/@UtkarshWrites](https://medium.com/@UtkarshWrites)
 
