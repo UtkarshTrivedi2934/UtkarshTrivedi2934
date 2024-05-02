@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/utkboi69" target="blank"><img src="https://img.shields.io/twitter/follow/utkboi69?logo=twitter&style=for-the-badge" alt="utkboi69" /></a> </p>
 
-- 🔭 Have a look at my profile:<a href = "[https://utkarshtrivedi2934.github.io/Utkarsh-Portfolio-website/]">(https://utkarshtrivedi2934.github.io/Utkarsh-Portfolio-website/)</a>
+- 🔭 Have a look at my portfolio:<a href = "[https://utkarshtrivedi2934.github.io/Portfolio_Website/]">(https://utkarshtrivedi2934.github.io/Portfolio_Website/)</a>
 
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 I’m currently learning **LLMs**
 
 - 📝 I regularly write articles on [https://medium.com/@UtkarshWrites](https://medium.com/@UtkarshWrites)
 
