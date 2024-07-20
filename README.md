@@ -8,7 +8,7 @@
 
 - 🔭 Have a look at my portfolio:<a href = "[https://utkarshtrivedi2934.github.io/Portfolio_Website/]">(https://utkarshtrivedi2934.github.io/Portfolio_Website/)</a>
 
-- 🌱 I’m currently learning **LLMs**
+- 🌱 I’m currently learning **LangChain**
 
 - 📝 I regularly write articles on [https://medium.com/@UtkarshWrites](https://medium.com/@UtkarshWrites)
 
