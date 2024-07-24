@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **trivedi.utkarsh2934@gmail.com**
 
-- 📄 Know about my experiences [[(https://drive.google.com/file/d/1tKyDQwYFnUEpnl0Ld5u2cRUl4yiaihMQ/view)](https://drive.google.com/file/d/1tKyDQwYFnUEpnl0Ld5u2cRUl4yiaihMQ/view)]
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1NgL3eYZyBzB5QMcpnYDbev96ZB1Blt-q]
 
 - ⚡ Fun fact **The right algorithm makes all the difference.**
 
