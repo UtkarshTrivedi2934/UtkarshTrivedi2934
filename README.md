@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/utkboi69" target="blank"><img src="https://img.shields.io/twitter/follow/utkboi69?logo=twitter&style=for-the-badge" alt="utkboi69" /></a> </p>
 
-- 🔭 Have a look at my portfolio:<a href = "[https://utkarshtrivedi2934.github.io/Portfolio_Website/]">(https://utkarshtrivedi2934.github.io/Portfolio_Website/)</a>
+- 🔭 Have a look at my portfolio:<a href = "[https://utkarsh2934.my.canva.site/]">(Website link)</a>
 
 - 🌱 I’m currently learning **LangChain**
 
