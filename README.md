@@ -8,7 +8,7 @@
 
 - 🔭 Have a look at my portfolio:<a href = "[https://utkarsh2934.my.canva.site/]">(https://utkarsh2934.my.canva.site/)</a>
 
-- 🌱 I’m currently learning **LangChain**
+- 🌱 I’m currently learning **MLOps**
 
 - 📝 I regularly write articles on [https://medium.com/@UtkarshWrites](https://medium.com/@UtkarshWrites)
 
