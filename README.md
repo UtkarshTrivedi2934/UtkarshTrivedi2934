@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
 
-<img align = "right" alt = "coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align = "right" alt = "coding" width = "400" src = "https://i.pinimg.com/originals/85/22/3f/85223f50edae3edc06c3c4ac500baf66.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshtrivedi2934&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshtrivedi2934" /> </p>
 
